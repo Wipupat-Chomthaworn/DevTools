@@ -7,6 +7,7 @@ pipeline {
         REMOTE_HOST     = 'g64070103@34.125.35.221' // Replace with your actual username and remote IP.
         SSH_CREDENTIALS = 'ssh-prod-ins' // Use the ID of the Jenkins stored SSH credentials.
     }
+
     
     
     stages {
